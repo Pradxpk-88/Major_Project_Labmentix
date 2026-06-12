@@ -25,36 +25,87 @@ T23	Documentation	Architecture Diagram
 T24	Documentation	Final Report
 T25	Presentation	PPT Preparation
 Suggested Division for 4 Members		
-		
+--------------------------------------------------------------------------------------------------		
 Member 1		
-		
 T1–T8		
 Data Understanding		
 Data Cleaning		
 EDA		
-		
+--------------------------------------------------------------------------------------------------		
 Member 2		
-		
 T9–T12		
 Feature Engineering		
 Travel Price Prediction		
 Gender Classification		
-		
+--------------------------------------------------------------------------------------------------				
 Member 3		
-		
 T14–T16		
 MLflow		
 FastAPI		
 Docker		
-		
+--------------------------------------------------------------------------------------------------				
 Member 4		
-		
 T13		
 T17–T20		
 Recommendation System		
 Streamlit		
 Deployment		
-		
+--------------------------------------------------------------------------------------------------				
 Everyone		
-		
-T21–T25		
+T21–T25	
+--------------------------------------------------------------------------------------------------		
+TASK ASSIGNMENT 
+--------------------------------------------------------------------------------------------------		
+
+| Member             | Assigned Tasks                 | Responsibility Area                                                                                        |
+| ------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Avinash**        | T1, T2, T3, T4, T5, T6, T7, T8 | Data Understanding, Data Cleaning, EDA                                                                     |
+| **Pradeep Kumar**  | T9, T10, T11, T12              | Feature Engineering, Travel Price Prediction Model, Gender Classification Model, Model Evaluation & Tuning |
+| **Rakesh Mahakur** | T14, T15, T16, T19             | MLflow Setup, Experiment Tracking, FastAPI APIs, Docker Setup                                              |
+| **Siddhi Sanap**   | T13, T17, T18, T20             | Hotel Recommendation Engine, Streamlit UI, Model Integration, Cloud Deployment                             |
+
+| Task ID | Task Description        |
+| ------- | ----------------------- |
+| T21     | End-to-End Testing      |
+| T22     | README.md Documentation |
+| T23     | Architecture Diagram    |
+| T24     | Final Report            |
+| T25     | PPT Preparation         |
+
+Work Distribution Summary
+
+Avinash :-
+Dataset Understanding (Users, Flights, Hotels)
+Missing Values Handling
+Duplicate & Outlier Removal
+User Analysis
+Flight Analysis
+Hotel Analysis
+
+Pradeep Kumar :-
+Feature Engineering
+Travel Price Prediction Model
+Gender Classification Model
+Model Evaluation
+Hyperparameter Tuning
+
+Rakesh Mahakur:-
+MLflow Setup
+Experiment Tracking
+FastAPI Backend APIs
+Docker Containerization
+
+Siddhi Sanap:-
+Recommendation System
+Streamlit Frontend
+Model Integration
+Cloud Deployment
+
+Entire Team:-
+Testing
+Documentation
+Architecture Design
+Final Report
+Presentation & Demo
+
+
