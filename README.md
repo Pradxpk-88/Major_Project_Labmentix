@@ -89,13 +89,14 @@ Gender Classification Model
 Model Evaluation
 Hyperparameter Tuning
 
-Rakesh Mahakur:-
+
+Siddhi Sanap:-
 MLflow Setup
 Experiment Tracking
 FastAPI Backend APIs
 Docker Containerization
 
-Siddhi Sanap:-
+Rakesh Mahakur:-
 Recommendation System
 Streamlit Frontend
 Model Integration
